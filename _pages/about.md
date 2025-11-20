@@ -113,6 +113,45 @@ I am very fortunate to be advised by [Prof. Jianwen Luo](https://orcid.org/0000-
 
     *Ultrasonics 2022*
 
+
+
+<span style="color: black;font-size: 1.3em; font-weight: bold;">Conference Proceedings</span>
+- [A Pyramidal Optical Flow Method Based on Dense Sift Feature Maps for Motion Correction in Ultrafast Power Doppler Imaging](https://doi.org/10.1109/ISBI56570.2024.10635245)
+
+    **<span style="color: black; font-weight: bold;">Xingyue Wei</span>**, Lijie Huang, Hengrong Lan, Jianwen Luo\*
+  
+    *IEEE International Symposium on Biomedical Imaging (ISBI) 2024*
+
+- [Unsupervised Structure-Aware Cascaded Recurrent Network Based Nonrigid Motion Correction for Ultrafast Power Doppler Imaging](https://doi.org/10.1109/ISBI56570.2024.10635348)
+
+    **<span style="color: black; font-weight: bold;">Xingyue Wei#</span>**, Rui Wang#, Lijie Huang#, Jianwen Luo\*
+  
+    *IEEE International Symposium on Biomedical Imaging (ISBI) 2024*
+
+- [Intelligent Grading of Liver Fibrosis, Inflammation and Steatosis Using Handcrafted and Deep Features From Multimodal Ultrasound Data](https://doi.org/10.1109/IUS51837.2023.10308093)
+
+    **<span style="color: black; font-weight: bold;">Xingyue Wei#</span>**, Lianshuang Wang#, Yuanyuan Wang, Lijie Huang, Qiong He, Yao Zhang\*, Jianwen Luo\*
+  
+    *IEEE International Ultrasonics Symposium (IUS) 2023 (Oral)*
+
+- [Exploration of Cerebral Microvascular Development in Preterm Neonates Using Ultrafast Power Doppler Imaging](https://doi.org/10.1109/IUS51837.2023.10306587)
+
+    Lijie Huang#, Yunfeng Liu#, **<span style="color: black; font-weight: bold;">Xingyue Wei#</span>**, Xinlin Hou, Rui Wang, Xiaomei Tong, Jianwen Luo\*
+  
+    *IEEE International Ultrasonics Symposium (IUS) 2023 (Oral)*
+
+- [Multi-Modal Features for Intelligent Differential Diagnosis of Solitary Pulmonary Tumors by Using Endobronchial Ultrasonography Images](https://doi.org/10.1109/IUS51837.2023.10308290)
+
+    Zhe Chen#, Jiaxin Feng#, **<span style="color: black; font-weight: bold;">Xingyue Wei#</span>**, Qiong, He, Shiyue Li, Changhao Zhong\*, Jianwen Luo\*
+  
+    *IEEE International Ultrasonics Symposium (IUS) 2023 (Oral)*
+
+- [Ultrafast Power Doppler Imaging of Human Newborn with Periventricular Venous Infarction: A Pilot Study](https://doi.org/10.1109/IUS54386.2022.9958422)
+
+    Lijie Huang#, Yunfeng Liu#, **<span style="color: black; font-weight: bold;">Xingyue Wei#</span>**, Xinlin Hou, Qiong, He, Xiaomei Tong, Jianwen Luo\*
+  
+    *IEEE International Ultrasonics Symposium (IUS) 2022 (Oral)*
+
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
