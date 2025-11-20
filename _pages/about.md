@@ -35,24 +35,26 @@ I am very fortunate to be advised by [Prof. Jianwen Luo](https://orcid.org/0000-
 
 **Xingyue Wei**, Lin Ge, Lijie Huang, Jianwen Luo*, Yan Xu*, **IEEE Transactions on Medical Imaging 2025**
 </div>
+<div style="padding-left: 0;">
 - [Unsupervised Histological Image Registration Using Structural Feature Guided Convolutional Neural Network](https://ieeexplore.ieee.org/abstract/document/9745959)
 
-    Lin Ge#, **Xingyue Wei#**, Y. Hao, Jianwen Luo*, Yan Xu*, **IEEE Transactions on Medical Imaging 2022**
-
+Lin Ge#, **Xingyue Wei#**, Yayu Hao, Jianwen Luo*, Yan Xu*, **IEEE Transactions on Medical Imaging 2022**
+</div>
+<div style="padding-left: 0;">
 - [Unsupervised Convolutional Neural Network for Motion Estimation in Ultrasound Elastography](https://ieeexplore.ieee.org/abstract/document/9766019/)
-
-    **X Wei#**, Y Wang#, L Ge, B Peng, Q He, R Wang, L Huang, Y Xu, J Luo*, **IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control 2022**
-
+  
+  **Xingyue Wei#**, Yuanyuan Wang#, Lin Ge, Bo Peng, Qiong He, Rui Wang, Lijie Huang, Yan Xu, Jianwen Luo*, **IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control 2022**
+</div>
 <div style="padding-left: 0;">
 - [Intraoperative Ultrafast Ultrasound Doppler Imaging of Degenerative Cervical Myelopathy Helps Predict Neurological Recovery](https://onlinelibrary.wiley.com/doi/abs/10.1002/jum.70101)
 
-**X Wei#**, Q Song#, L Huang#, C Wang, J Li, R Wang, J Wang, N Zhang, X Han*, J Luo*
+**Xingyue Wei#**, Qingpeng Song#, Lijie Huang#, Chao Wang, Jiuheng Li, Rui Wang, Jinchao Wang, Ning Zhang, Xiao Han*, Jianwen Luo*
 </div>
 
 <div style="padding-left: 0;">
 - [Simultaneous grading diagnosis of liver fibrosis, inflammation, and steatosis using multimodal quantitative ultrasound and artificial intelligence framework](https://link.springer.com/article/10.1007/s11517-024-03159-z)
 
-**X Wei#**, Y Wang#, L Wang#, M Gao, Q He, Y Zhang*, J Luo*
+**Xingyue Wei#**, Yuanyuan Wang#, Lianshuang Wang#, Mengze Gao, Qiong He, Yao Zhang*, Jianwen Luo*
 </div>
 
 # 🎖 Honors and Awards
