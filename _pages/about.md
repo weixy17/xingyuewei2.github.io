@@ -33,25 +33,30 @@ I am very fortunate to be advised by [Prof. Jianwen Luo](https://orcid.org/0000-
 
 - [Unsupervised Non-Rigid Histological Image Registration Guided by Keypoint Correspondences Based on Learnable Deep Features With Iterative Training](https://ieeexplore.ieee.org/abstract/document/10643202)
 
-    **Xingyue Wei**, Lin Ge, Lijie Huang, Jianwen Luo*, Yan Xu*, **IEEE Transactions on Medical Imaging 2025**
+    **Xingyue Wei**, Lin Ge, Lijie Huang, Jianwen Luo*, Yan Xu*
+    **IEEE Transactions on Medical Imaging 2025**
 
 
 - [Unsupervised Histological Image Registration Using Structural Feature Guided Convolutional Neural Network](https://ieeexplore.ieee.org/abstract/document/9745959)
 
-    Lin Ge#, **Xingyue Wei#**, Yayu Hao, Jianwen Luo*, Yan Xu*, **IEEE Transactions on Medical Imaging 2022**
+    Lin Ge#, **Xingyue Wei#**, Yayu Hao, Jianwen Luo*, Yan Xu*
+    **IEEE Transactions on Medical Imaging 2022**
 
 
 - [Unsupervised Convolutional Neural Network for Motion Estimation in Ultrasound Elastography](https://ieeexplore.ieee.org/abstract/document/9766019/)
   
-    **Xingyue Wei#**, Yuanyuan Wang#, Lin Ge, Bo Peng, Qiong He, Rui Wang, Lijie Huang, Yan Xu, Jianwen Luo*, **IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control 2022**
+    **Xingyue Wei#**, Yuanyuan Wang#, Lin Ge, Bo Peng, Qiong He, Rui Wang, Lijie Huang, Yan Xu, Jianwen Luo*
+    **IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control 2022**
 
 - [Intraoperative Ultrafast Ultrasound Doppler Imaging of Degenerative Cervical Myelopathy Helps Predict Neurological Recovery](https://onlinelibrary.wiley.com/doi/abs/10.1002/jum.70101)
 
     **Xingyue Wei#**, Qingpeng Song#, Lijie Huang#, Chao Wang, Jiuheng Li, Rui Wang, Jinchao Wang, Ning Zhang, Xiao Han*, Jianwen Luo*
+    **Journal of Ultrasound in Medicine 2025**
 
 - [Simultaneous grading diagnosis of liver fibrosis, inflammation, and steatosis using multimodal quantitative ultrasound and artificial intelligence framework](https://link.springer.com/article/10.1007/s11517-024-03159-z)
 
     **Xingyue Wei#**, Yuanyuan Wang#, Lianshuang Wang#, Mengze Gao, Qiong He, Yao Zhang*, Jianwen Luo*
+    **Medical & Biological Engineering & Computing 2024**
 
 
 # 🎖 Honors and Awards
