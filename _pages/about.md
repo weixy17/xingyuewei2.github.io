@@ -43,6 +43,18 @@ I am very fortunate to be advised by [Prof. Jianwen Luo](https://orcid.org/0000-
 
     **X Wei#**, Y Wang#, L Ge, B Peng, Q He, R Wang, L Huang, Y Xu, J Luo*, **IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control 2022**
 
+<div style="padding-left: 0;">
+- [Intraoperative Ultrafast Ultrasound Doppler Imaging of Degenerative Cervical Myelopathy Helps Predict Neurological Recovery](https://onlinelibrary.wiley.com/doi/abs/10.1002/jum.70101)
+
+**X Wei#**, Q Song#, L Huang#, C Wang, J Li, R Wang, J Wang, N Zhang, X Han*, J Luo*
+</div>
+
+<div style="padding-left: 0;">
+- [Simultaneous grading diagnosis of liver fibrosis, inflammation, and steatosis using multimodal quantitative ultrasound and artificial intelligence framework](https://link.springer.com/article/10.1007/s11517-024-03159-z)
+
+**X Wei#**, Y Wang#, L Wang#, M Gao, Q He, Y Zhang*, J Luo*
+</div>
+
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
