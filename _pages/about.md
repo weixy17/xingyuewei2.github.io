@@ -33,12 +33,15 @@ I am very fortunate to be advised by [Prof. Jianwen Luo](https://orcid.org/0000-
 
 - [Unsupervised Non-Rigid Histological Image Registration Guided by Keypoint Correspondences Based on Learnable Deep Features With Iterative Training](https://ieeexplore.ieee.org/abstract/document/10643202)
 
-**Xingyue Wei**, Lin Ge, Lijie Huang, Jianwen Luo*, Yan Xu*, **IEEE Transactions on Medical Imaging 2025**
+    **Xingyue Wei**, Lin Ge, Lijie Huang, Jianwen Luo*, Yan Xu*, **IEEE Transactions on Medical Imaging 2025**
 
 - [Unsupervised Histological Image Registration Using Structural Feature Guided Convolutional Neural Network](https://ieeexplore.ieee.org/abstract/document/9745959)
 
-Lin Ge#, **Xingyue Wei#**, Y. Hao, Jianwen Luo*, Yan Xu*, **IEEE Transactions on Medical Imaging 2022**
+    Lin Ge#, **Xingyue Wei#**, Y. Hao, Jianwen Luo*, Yan Xu*, **IEEE Transactions on Medical Imaging 2022**
 
+- [Unsupervised Convolutional Neural Network for Motion Estimation in Ultrasound Elastography](https://ieeexplore.ieee.org/abstract/document/9766019/)
+
+    **X Wei#**, Y Wang#, L Ge, B Peng, Q He, R Wang, L Huang, Y Xu, J Luo*, **IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control 2022**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
