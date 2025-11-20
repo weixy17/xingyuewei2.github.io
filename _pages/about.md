@@ -32,7 +32,7 @@ I am very fortunate to be advised by [Prof. Jianwen Luo](https://orcid.org/0000-
 # 📝 Publications 
 \# co-first author \| \* corresponding author
 
-Journal Articles
+<span style="color: blue; font-size: 1.5em; font-weight: bold;">Journal Articles</span>
 - [Unsupervised Non-Rigid Histological Image Registration Guided by Keypoint Correspondences Based on Learnable Deep Features With Iterative Training](https://doi.org/10.1109/TMI.2024.3447214)
 
     **Xingyue Wei**, Lin Ge, Lijie Huang, Jianwen Luo\*, Yan Xu\*
