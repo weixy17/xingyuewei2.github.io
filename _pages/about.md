@@ -24,11 +24,6 @@ I’m Fifth-year PhD student from <a href='https://www.med.tsinghua.edu.cn/en/'>
 
 I am very fortunate to be advised by [Prof. Jianwen Luo](https://orcid.org/0000-0001-9215-5568) of [MUSE Lab](http://muselab-tsinghua.net/) from School of Biomedical Engineering, Tsinghua University.
 
-
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
 # 📝 Publications 
 \# co-first author \| \* corresponding author
 
