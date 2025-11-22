@@ -100,6 +100,11 @@ I am very fortunate to be advised by [Prof. Jianwen Luo](https://orcid.org/0000-
 
     *IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control 2022*
 
+- [Artificial Intelligence-based Ultrasound Imaging Technologies for Hepatic Diseases](https://doi.org/10.1016/j.iliver.2022.11.001)
+
+    Longfei Ma#, Rui Wang#, Qiong He, Lijie Huang, **<span style="color: black; font-weight: bold;">Xingyue Wei</span>**, Xu Lu, Yanan Du, Jianwen Luo\*, Hongen Liao\*
+    *iLIVER 2022*
+
 - [Influence of Key Parameters on Motion Artifacts in Lateral Strain Estimation with Spatial Angular Compounding](https://doi.org/10.1016/j.ultras.2022.106799)
 
     Yuanyuan Wang, **<span style="color: black; font-weight: bold;">Xingyue Wei</span>**, Zonghui Pan, Lijie Huang, Qiong He, Jianwen Luo\*
