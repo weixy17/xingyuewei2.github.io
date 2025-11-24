@@ -19,34 +19,34 @@ redirect_from:
 # About Me 
 I’m Fifth-year PhD student from <a href='https://www.med.tsinghua.edu.cn/en/'>School of Biomedical Engineering</a>, [Tsinghua University](https://www.tsinghua.edu.cn/). My research interest includes AI for Medical Image Analysis and ultrasound microvascular imaging. I have published some papers with total <a href='https://scholar.google.com/citations?user=eazk_70AAAAJ&hl=zh-CN&oi=sra'>google scholar citations <strong><span id='total_cit'>228</span></strong></a>.
 
-I am very fortunate to be advised by [Prof. Jianwen Luo](https://www.med.tsinghua.edu.cn/info/1143/2123.htm) of [MUSE Lab](http://muselab-tsinghua.net/) from School of Biomedical Engineering, Tsinghua University.
+I am very fortunate to be advised by [Prof. Jianwen Luo](https://www.med.tsinghua.edu.cn/info/1143/2123.htm) from School of Biomedical Engineering, Tsinghua University.
 
 <span class='anchor' id='publications'></span>
 # 📝 Publications 
 \# co-first author \| \* corresponding author
 
 <span style="color: black;font-size: 1.3em; font-weight: bold;">Journal Articles</span>
-- [Unsupervised Non-Rigid Histological Image Registration Guided by Keypoint Correspondences Based on Learnable Deep Features With Iterative Training](https://doi.org/10.1109/TMI.2024.3447214)
+- 1. [Unsupervised Non-Rigid Histological Image Registration Guided by Keypoint Correspondences Based on Learnable Deep Features With Iterative Training](https://doi.org/10.1109/TMI.2024.3447214)
 
     **<span style="color: black; font-weight: bold;">Xingyue Wei</span>**, Lin Ge, Lijie Huang, Jianwen Luo\*, Yan Xu\*
   
     *IEEE Transactions on Medical Imaging 2025*
 
 
-- [Unsupervised Histological Image Registration Using Structural Feature Guided Convolutional Neural Network](https://doi.org/10.1109/TMI.2022.3164088)
+- 2. [Unsupervised Histological Image Registration Using Structural Feature Guided Convolutional Neural Network](https://doi.org/10.1109/TMI.2022.3164088)
 
     Lin Ge#, **<span style="color: black; font-weight: bold;">Xingyue Wei#</span>**, Yayu Hao, Jianwen Luo\*, Yan Xu\*
   
     *IEEE Transactions on Medical Imaging 2022*
 
 
-- [Unsupervised Convolutional Neural Network for Motion Estimation in Ultrasound Elastography](https://doi.org/10.1109/TUFFC.2022.3171676)
+- 3. [Unsupervised Convolutional Neural Network for Motion Estimation in Ultrasound Elastography](https://doi.org/10.1109/TUFFC.2022.3171676)
   
     **<span style="color: black; font-weight: bold;">Xingyue Wei#</span>**, Yuanyuan Wang#, Lin Ge, Bo Peng, Qiong He, Rui Wang, Lijie Huang, Yan Xu, Jianwen Luo\*
   
     *IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control 2022*
 
-- [Intraoperative Ultrafast Ultrasound Doppler Imaging of Degenerative Cervical Myelopathy Helps Predict Neurological Recovery](https://doi.org/10.1002/jum.70101)
+- 4. [Intraoperative Ultrafast Ultrasound Doppler Imaging of Degenerative Cervical Myelopathy Helps Predict Neurological Recovery](https://doi.org/10.1002/jum.70101)
 
     **<span style="color: black; font-weight: bold;">Xingyue Wei#</span>**, Qingpeng Song#, Lijie Huang#, Chao Wang, Jiuheng Li, Rui Wang, Jinchao Wang, Ning Zhang, Xiao Han\*, Jianwen Luo\*
   
