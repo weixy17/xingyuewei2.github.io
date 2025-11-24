@@ -26,14 +26,14 @@ I am very fortunate to be advised by [Prof. Jianwen Luo](https://www.med.tsinghu
 \# co-first author \| \* corresponding author
 
 <span style="color: black;font-size: 1.3em; font-weight: bold;">Journal Articles</span>
-- 1. [Unsupervised Non-Rigid Histological Image Registration Guided by Keypoint Correspondences Based on Learnable Deep Features With Iterative Training](https://doi.org/10.1109/TMI.2024.3447214)
+    1. [Unsupervised Non-Rigid Histological Image Registration Guided by Keypoint Correspondences Based on Learnable Deep Features With Iterative Training](https://doi.org/10.1109/TMI.2024.3447214)
 
     **<span style="color: black; font-weight: bold;">Xingyue Wei</span>**, Lin Ge, Lijie Huang, Jianwen Luo\*, Yan Xu\*
   
     *IEEE Transactions on Medical Imaging 2025*
 
 
-- 2. [Unsupervised Histological Image Registration Using Structural Feature Guided Convolutional Neural Network](https://doi.org/10.1109/TMI.2022.3164088)
+    2. [Unsupervised Histological Image Registration Using Structural Feature Guided Convolutional Neural Network](https://doi.org/10.1109/TMI.2022.3164088)
 
     Lin Ge#, **<span style="color: black; font-weight: bold;">Xingyue Wei#</span>**, Yayu Hao, Jianwen Luo\*, Yan Xu\*
   
