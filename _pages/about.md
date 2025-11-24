@@ -27,7 +27,7 @@ I am very fortunate to be advised by [Prof. Jianwen Luo](https://www.med.tsinghu
 
 <span style="color: black;font-size: 1.3em; font-weight: bold;">Journal Articles</span>
 
-<ol style="color: rgb(108, 117, 125); padding-left: 20px;">
+<ol style="color: var(--body-color); opacity: 0.9; padding-left: 20px;">
   <li style="margin-bottom: 20px;">
     <a href="https://doi.org/10.1109/TMI.2024.3447214">Unsupervised Non-Rigid Histological Image Registration Guided by Keypoint Correspondences Based on Learnable Deep Features With Iterative Training</a>
     <br>
