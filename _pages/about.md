@@ -144,7 +144,7 @@ I am very fortunate to be advised by [Prof. Jianwen Luo](https://www.med.tsinghu
 
 <span style="color: black;font-size: 1.3em; font-weight: bold;">First-author Conference Proceedings</span>
 
-<ol style="color: var(--body-color); opacity: 0.9; padding-left: 20px;">
+<ol style="color: var(--body-color); padding-left: 20px;">
   <li style="margin-bottom: 20px;">
     <a href="https://doi.org/10.1109/ISBI56570.2024.10635245">A Pyramidal Optical Flow Method Based on Dense Sift Feature Maps for Motion Correction in Ultrafast Power Doppler Imaging</a>
     <br>
